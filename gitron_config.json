@@ -1,0 +1,7 @@
+{
+  "main_page": "Startblock_UI.html",
+  "modules": ["INFLOW_Quest_Valentina.html"],
+  "auto_push": false,
+  "version_file": "version.json",
+  "log_file": "changes.md"
+}
