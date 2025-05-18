@@ -1,0 +1,7 @@
+{
+  "project": "SYNERA",
+  "version": "1.0",
+  "owner": "Gernot",
+  "modules": ["INFLOW", "ParentView", "AURACHRONUS", "FIN", "VELA", "GOLIATH", "SENTINEL"],
+  "description": "Zentrale Schwarm- und Systemstruktur für SYNERA"
+}
